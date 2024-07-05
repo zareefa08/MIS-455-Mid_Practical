@@ -106,6 +106,11 @@ img{
     background-color: #e23e3e;
 }
 
+.amatic-sc-bold {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
 
 
 .yellow {
@@ -203,3 +208,7 @@ img{
     padding: 15px;
     background-color: #e23e3e;
 }
+
+
+
+/* contact */
