@@ -1,0 +1,54 @@
+.header {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 20px;
+  }
+
+  
+/* logo image */
+img{
+    height: 100px;
+    margin: auto;
+}
+
+.logo{
+    text-align: center;
+}
+
+
+
+/* nav bar */
+.navbar li {
+    display: inline-block;
+  }
+
+.navbar a {
+    display: block;
+    background-color: #f16262;
+    text-align: center;
+    width: 100px;
+    padding: 25px 20px;
+    font-weight: bold;
+    font-size: 18px;
+  }
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: red;
+  text-align: center;
+}
+
+.navbar li a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar li a:hover {
+  background-color: red;
+}
+.navbar li {
+    border: 1px solid #f5f2f2;
+  }
