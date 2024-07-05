@@ -212,3 +212,10 @@ img{
 
 
 /* contact */
+.contactPage h2{
+  text-align: center;
+}
+
+.contactPage{
+  margin-left: 50px;
+}
